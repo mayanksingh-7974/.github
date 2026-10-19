@@ -53,7 +53,8 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
-### @mayanksingh-7974 — Chai Terminal
+
+### @mayanksingh-7974 - Chai Terminal
 
 ```text
        ( (
@@ -66,11 +67,6 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
     |   AI    |
      \_______/
        |___|
-```
-
-*What it represents:* A chai cup and terminal symbolize my interest in coding and 169Pi's work on compact, locally runnable AI models.
-
-**Contributed by [@mayanksingh-7974](https://github.com/mayanksingh-7974)**
 <!-- ENTRIES:END -->
 
 ---
